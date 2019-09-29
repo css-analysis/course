@@ -2,12 +2,12 @@
 
 ### Section 1
 
-|  | [Dr. Benjamin Soltoff](http://www.bensoltoff.com) | [Joshua G. Mausolf](http://jmausolf.github.io/) (TA) | TBD (TA) |
+|  | [Dr. Benjamin Soltoff](http://www.bensoltoff.com) | [Joshua G. Mausolf](http://jmausolf.github.io/) (TA) | Keertana Chidambaram (TA) |
 |--------------|---------------------------------------------------|------------------------------------------------------|---|
-| Email | soltoffbc@uchicago.edu | jmausolf@uchicago.edu |  |
+| Email | soltoffbc@uchicago.edu | jmausolf@uchicago.edu | keertana@uchicago.edu |
 | Office | 209 McGiffert House | 403 5730 S. Woodlawn |  |
-| Office Hours | M 9-11am |  |  |
-| GitHub | [bensoltoff](https://github.com/bensoltoff) |  |  |
+| Office Hours | M 1:30-3:30pm |  |  |
+| GitHub | [bensoltoff](https://github.com/bensoltoff) | [jmausolf](https://github.com/jmausolf) | [keertanavc](https://github.com/keertanavc) |
 
 * **Meeting day/time**: MW 11:30a-1:20p, 247 Saieh Hall for Economics
 * **Lab session**: W 4:30-5:20p, 247 Saieh Hall for Economics
