@@ -62,7 +62,7 @@ The TAs will hold a Wednesday night lab to discuss what constitutes plagiarism a
 
 ### Late Problem Sets
 
-Late problem sets will be penalized 1 points for every hour they are late. For example, if an assignment is due on Monday at 11:30am, the following points will be deducted based on the time stamp of the last commit.
+Unexcused late problem sets will be penalized 1 points for every hour they are late. For example, if an assignment is due on Monday at 11:30am, the following points will be deducted based on the time stamp of the last commit.
 
 | Example PR last commit | points deducted |
 | ---------------------- | --------------- |
@@ -102,8 +102,7 @@ Late problem sets will be penalized 1 points for every hour they are late. For e
 1. Introduction to computational social science
     * [Watts, D. J. (2007). A twenty-first century science. *Nature*, 445(7127), 489-489.](http://www.nature.com.proxy.uchicago.edu/nature/journal/v445/n7127/pdf/445489a.pdf)
     * [Lazer et. al. (2009) Computational Social Science. *Science*, 323, 721-723.](http://science.sciencemag.org.proxy.uchicago.edu/content/323/5915/721.full)
-    * [Shmueli, G. (2010). To explain or to predict?. *Statistical science*, 25(3), 289-310.](https://projecteuclid.org/euclid.ss/1294167961)
-    * [Anderson, C. (2008). The End of Theory: The Data Deluge Makes the Scientific Method Obsolete. *Wired*.](http://www.wired.com/2008/06/pb-theory/)
+    * ["Chapter 1: Introduction." *Bit by Bit*.](https://www.bitbybitbook.com/en/1st-ed/introduction/)
 1. Observational data (counting things)
     * ["Chapter 2: Observing Behavior." *Bit by Bit*.](http://www.bitbybitbook.com/en/observing-behavior/) Sections 2.1-2.4.1.3.
     * [King, G., Pan, J., & Roberts, M. E. (2013). How censorship in China allows government criticism but silences collective expression. *American Political Science Review*, 107(02), 326-343.](http://journals.cambridge.org.proxy.uchicago.edu/action/displayAbstract?fromPage=online&aid=8919476&fileId=S0003055413000014)
