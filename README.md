@@ -153,16 +153,16 @@ Unexcused late problem sets will be penalized 1 points for every hour they are l
     * ["Chapter 6: Ethics." *Bit by Bit*.](http://www.bitbybitbook.com/en/ethics/)
     * [Zimmer, M. (2016). OkCupid Study Reveals the Perils of Big-Data Science. *Wired*.](https://www.wired.com/2016/05/okcupid-study-reveals-perils-big-data-science/)
     * [Burnett, S., & Feamster, N. (2015, August). Encore: Lightweight measurement of web censorship with cross-origin requests. In *ACM SIGCOMM Computer Communication Review* (Vol. 45, No. 4, pp. 653-667). ACM.](https://arxiv.org/pdf/1410.1211.pdf)
-1. Ethics (cont.)
-    * [UChicago Social & Behavioral Sciences Institutional Review Board](https://sbsirb.uchicago.edu/)
-        * Skim site
-        * Specifically read ["Does My Research Need IRB Review?"](https://sbsirb.uchicago.edu/page/does-my-research-need-irb-review-0)
     * Facebook emotional contagion study
         * [Kramer, A. D., Guillory, J. E., & Hancock, J. T. (2014). Experimental evidence of massive-scale emotional contagion through social networks. *PNAS*, 111(24), 8788-8790.](http://www.pnas.org/content/111/24/8788.full)
         * [Editorial Expression of Concern: Experimental evidence of massive-scale emotional contagion through social networks. (2014) *PNAS*, 111(29), 10779.](http://www.pnas.org/content/111/29/10779.1.full)
         * [Watts, D. J. (2014). Stop complaining about the Facebook study. It's a golden age for research. *The Guardian*.](https://www.theguardian.com/commentisfree/2014/jul/07/facebook-study-science-experiment-research)
         * [Zimmer, M. (2010). “But the data is already public”: on the ethics of research in Facebook. *Ethics and information technology*, 12(4), 313-325.](https://link.springer.com/article/10.1007/s10676-010-9227-5)
-    * [Kosinski, M., & Wang, Y. (2017, September 24). Deep neural networks are more accurate than humans at detecting sexual orientation from facial images. *Journal of Personality and Social Psychology.* Retrieved from psyarxiv.com/hv28a](https://psyarxiv.com/hv28a/)
+1. Ethics (cont.)
+    * Eubanks, V. (2018). Chapter 4: The Allegheny algorithm. In *Automating inequality: How high-tech tools profile, police, and punish the poor* (pp. 127-173). St. Martin's Press.
+    * [UChicago Social & Behavioral Sciences Institutional Review Board](https://sbsirb.uchicago.edu/)
+        * Skim site
+        * Specifically read ["Does My Research Need IRB Review?"](https://sbsirb.uchicago.edu/page/does-my-research-need-irb-review-0)
 1. Developing a research proposal
 1. Developing a research proposal
 1. Exploratory data analysis
