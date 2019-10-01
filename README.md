@@ -111,11 +111,11 @@ Unexcused late problem sets will be penalized 1 points for every hour they are l
 1. Observational data (measurement)
     * [Bonica, A. (2014). Mapping the ideological marketplace. *American Journal of Political Science*, 58(2), 367-386.](http://onlinelibrary.wiley.com.proxy.uchicago.edu/doi/10.1111/ajps.12062/abstract)
     * [Wojcik, S. P., Hovasapian, A., Graham, J., Motyl, M., & Ditto, P. H. (2015). Conservatives report, but liberals display, greater happiness. *Science*, 347(6227), 1243-1246.](http://science.sciencemag.org.proxy.uchicago.edu/content/347/6227/1243.full)
-    * [Shi, F., Shi, Y., Dokshin, F. A., Evans, J. A., & Macy, M. W. (2017). Millions of online book co-purchases reveal partisan differences in the consumption of science. *Nature Human Behaviour*, 1(4), 0079.](https://www.nature.com/articles/s41562-017-0079)
+    * Shi, F., Shi, Y., Dokshin, F. A., Evans, J. A., & Macy, M. W. (2017). Millions of online book co-purchases reveal partisan differences in the consumption of science. *Nature Human Behaviour*, 1(4), 0079. -- available on course reserve on the Canvas site
 1. Observational data (forecasting)
     * [2.4.2 Forecasting and nowcasting. *Bit by Bit*.](http://www.bitbybitbook.com/en/observing-behavior/designs/forecasting/)
     * [Goel, S., Hofman, J. M., Lahaie, S., Pennock, D. M., & Watts, D. J. (2010). Predicting consumer behavior with Web search. *PNAS*, 107(41), 17486-17490.](http://www.pnas.org/content/107/41/17486.full?sid%3D3c84ffa2-362d-46ba-b735-ea41ef21ace7)
-    * Beieler, J., Brandt, P. T., Halterman, A., Schrodt, P. A., Simpson, E. M., & Alvarez, R. M. (2016). Generating political event data in near real time. *Computational Social Science*, 98.
+    * Beieler, J., Brandt, P. T., Halterman, A., Schrodt, P. A., Simpson, E. M., & Alvarez, R. M. (2016). Generating political event data in near real time. *Computational Social Science*, 98. -- available on course reserve on the Canvas site
     * Google Flu Trends
         * [Ginsberg, J., Mohebbi, M. H., Patel, R. S., Brammer, L., Smolinski, M. S., & Brilliant, L. (2009). Detecting influenza epidemics using search engine query data. *Nature*, 457(7232), 1012-1014.](http://www.nature.com.proxy.uchicago.edu/nature/journal/v457/n7232/full/nature07634.html)
         * [Lazer, D., Kennedy, R., King, G., & Vespignani, A. (2014). The parable of Google flu: traps in big data analysis. *Science*, 343(6176), 1203-1205.](http://science.sciencemag.org.proxy.uchicago.edu/content/343/6176/1203.full)
@@ -159,7 +159,7 @@ Unexcused late problem sets will be penalized 1 points for every hour they are l
         * [Watts, D. J. (2014). Stop complaining about the Facebook study. It's a golden age for research. *The Guardian*.](https://www.theguardian.com/commentisfree/2014/jul/07/facebook-study-science-experiment-research)
         * [Zimmer, M. (2010). “But the data is already public”: on the ethics of research in Facebook. *Ethics and information technology*, 12(4), 313-325.](https://link.springer.com/article/10.1007/s10676-010-9227-5)
 1. Ethics (cont.)
-    * Eubanks, V. (2018). Chapter 4: The Allegheny algorithm. In *Automating inequality: How high-tech tools profile, police, and punish the poor* (pp. 127-173). St. Martin's Press.
+    * Eubanks, V. (2018). Chapter 4: The Allegheny algorithm. In *Automating inequality: How high-tech tools profile, police, and punish the poor* (pp. 127-173). St. Martin's Press. -- available on course reserve on the Canvas site
     * [UChicago Social & Behavioral Sciences Institutional Review Board](https://sbsirb.uchicago.edu/)
         * Skim site
         * Specifically read ["Does My Research Need IRB Review?"](https://sbsirb.uchicago.edu/page/does-my-research-need-irb-review-0)
