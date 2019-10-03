@@ -19,11 +19,11 @@
 |--------------|---------------------------------------------------|-----------------------------------------|---------------------------------------|
 | Email | jclindaniel@uchicago.edu | sjia@uchicago.edu | smiklin@uchicago.edu |
 | Office | 204 McGiffert House | 403 5730 S. Woodlawn | 403 5730 S. Woodlawn |
-| Office Hours | M 2-4pm, Tu 3:30-5:30pm |  |  |
+| Office Hours | M 2-4pm, Tu 3:30-5:30pm | Tu, 2-4pm | Th, 1:30-3:30pm |
 | GitHub | [jonclindaniel](https://github.com/jonclindaniel) | [shevajia](https://github.com/shevajia) | [smiklin](https://github.com/smiklin) |
 
 * **Meeting day/time**: MW 11:30a-1:20p, 301 Rosenwald Hall
-* **Lab session**: W 4:30-5:20p, 119 Cobb Hall
+* **Lab session**: W 4:30-5:20p, 115 Cobb Hall
 * Office hours also available by appointment
 
 ## Course description
