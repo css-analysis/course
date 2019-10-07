@@ -6,7 +6,7 @@
 |--------------|---------------------------------------------------|------------------------------------------------------|---|
 | Email | soltoffbc@uchicago.edu | jmausolf@uchicago.edu | keertana@uchicago.edu |
 | Office | 209 McGiffert House | 403 5730 S. Woodlawn | 2nd floor, 5730 S. Woodlawn |
-| Office Hours | M 1:30-3:30pm | MW 1:30-2:30pm | TuTh 1-2pm |
+| Office Hours | M 1:30-3:30pm | MW 1:30-2:30pm | TuTh 10-11am |
 | GitHub | [bensoltoff](https://github.com/bensoltoff) | [jmausolf](https://github.com/jmausolf) | [keertanavc](https://github.com/keertanavc) |
 
 * **Meeting day/time**: MW 11:30a-1:20p, 247 Saieh Hall for Economics
