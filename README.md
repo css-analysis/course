@@ -113,27 +113,23 @@ Unexcused late problem sets will be penalized 1 points for every hour they are l
     * [Wojcik, S. P., Hovasapian, A., Graham, J., Motyl, M., & Ditto, P. H. (2015). Conservatives report, but liberals display, greater happiness. *Science*, 347(6227), 1243-1246.](http://science.sciencemag.org.proxy.uchicago.edu/content/347/6227/1243.full)
     * Shi, F., Shi, Y., Dokshin, F. A., Evans, J. A., & Macy, M. W. (2017). Millions of online book co-purchases reveal partisan differences in the consumption of science. *Nature Human Behaviour*, 1(4), 0079. -- available on course reserve on the Canvas site
 1. Observational data (forecasting)
-    * [2.4.2 Forecasting and nowcasting. *Bit by Bit*.](http://www.bitbybitbook.com/en/1st-ed/observing-behavior/designs/forecasting/)
+    * [2.4.2 Forecasting and nowcasting. *Bit by Bit*.](https://www.bitbybitbook.com/en/1st-ed/observing-behavior/strategies/forecasting/)
     * [Goel, S., Hofman, J. M., Lahaie, S., Pennock, D. M., & Watts, D. J. (2010). Predicting consumer behavior with Web search. *PNAS*, 107(41), 17486-17490.](http://www.pnas.org/content/107/41/17486.full?sid%3D3c84ffa2-362d-46ba-b735-ea41ef21ace7)
-    * Beieler, J., Brandt, P. T., Halterman, A., Schrodt, P. A., Simpson, E. M., & Alvarez, R. M. (2016). Generating political event data in near real time. *Computational Social Science*, 98. -- available on course reserve on the Canvas site
     * Google Flu Trends
         * [Ginsberg, J., Mohebbi, M. H., Patel, R. S., Brammer, L., Smolinski, M. S., & Brilliant, L. (2009). Detecting influenza epidemics using search engine query data. *Nature*, 457(7232), 1012-1014.](http://www.nature.com.proxy.uchicago.edu/nature/journal/v457/n7232/full/nature07634.html)
         * [Lazer, D., Kennedy, R., King, G., & Vespignani, A. (2014). The parable of Google flu: traps in big data analysis. *Science*, 343(6176), 1203-1205.](http://science.sciencemag.org.proxy.uchicago.edu/content/343/6176/1203.full)
 1. Observational data (approximating experiments)
-    * [2.4.3 Approximating experiments. *Bit by Bit*.](http://www.bitbybitbook.com/en/1st-ed/observing-behavior/designs/approximating-experiments/)
+    * [2.4.3 Approximating experiments. *Bit by Bit*.](http://www.bitbybitbook.com/en/1st-ed/observing-behavior/strategies/approximating-experiments/)
     * [Phan, T. Q., & Airoldi, E. M. (2015). A natural experiment of social network formation and dynamics. *PNAS*, 112(21), 6595-6600.](http://www.pnas.org/content/112/21/6595.full)
     * [Hersh, E. D. (2013). Long-term effect of September 11 on the political behavior of victims' families and neighbors. *PNAS*, 110(52), 20959-20963.](http://www.pnas.org/content/110/52/20959.full)
-    * [Einav, L., Kuchler, T., Levin, J., & Sundaresan, N. (2015). Assessing sale strategies in online markets using matched listings. *American Economic Journal*: Microeconomics, 7(2), 215-47.](https://www.aeaweb.org/articles?id=10.1257/mic.20130046)
 1. Asking questions (fundamentals)
     * ["Chapter 3: Asking Questions." *Bit by Bit*.](http://www.bitbybitbook.com/en/1st-ed/asking-questions/) Sections 3.1-3.4.
     * [Ansolabehere, S., & Hersh, E. (2012). Validation: What big data reveal about survey misreporting and the real electorate. Political Analysis, 20(4), 437-459.](https://www.cambridge.org/core/journals/political-analysis/article/validation-what-big-data-reveal-about-survey-misreporting-and-the-real-electorate/8EAEC7B63CD44AED85075AB4FF5BE4F0)
-    * [Schuldt, J. P., Konrath, S. H., & Schwarz, N. (2011). "Global warming" or "climate change"? Whether the planet is warming depends on question wording. *Public Opinion Quarterly*, 75(1): 115-124.](http://poq.oxfordjournals.org.proxy.uchicago.edu/content/75/1/115)
     * [Wang, W., Rothschild, D., Goel, S., & Gelman, A. (2015). Forecasting elections with non-representative polls. *International Journal of Forecasting*, 31(3), 980-991.](http://www.sciencedirect.com.proxy.uchicago.edu/science/article/pii/S0169207014000879)
     * [The Upshot: We Gave Four Good Pollsters the Same Raw Data. They Had Four Different Results.](http://www.nytimes.com/interactive/2016/09/20/upshot/the-error-the-polling-world-rarely-talks-about.html?_r=1)
 1. Asking questions (digitally-enriched)
     * ["Chapter 3: Asking Questions." *Bit by Bit*.](http://www.bitbybitbook.com/en/1st-ed/asking-questions/) Sections 3.5-3.7.
     * [Sugie, N. F. (2016). Utilizing Smartphones to Study Disadvantaged and Hard-to-Reach Groups. *Sociological Methods & Research*, 0049124115626176.](http://smr.sagepub.com.proxy.uchicago.edu/content/early/2016/01/18/0049124115626176.full)
-    * [Lax, J. R., & Phillips, J. H. (2009). How should we estimate public opinion in the states?. *American Journal of Political Science*, 53(1), 107-121.](http://onlinelibrary.wiley.com.proxy.uchicago.edu/doi/10.1111/j.1540-5907.2008.00360.x/full)
     * [Kosinski, M., Stillwell, D., & Graepel, T. (2013). Private traits and attributes are predictable from digital records of human behavior. *Proceedings of the National Academy of Sciences*, 110(15), 5802-5805.](http://www.pnas.org/content/110/15/5802.full)
 1. Experiments
     * ["Chapter 4: Running experiments." *Bit by Bit*.](http://www.bitbybitbook.com/en/1st-ed/running-experiments/)
