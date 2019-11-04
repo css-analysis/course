@@ -88,7 +88,7 @@ Unexcused late problem sets will be penalized 1 points for every hour they are l
 | 9 | 30-Oct | Wed | Experiments |  |
 | 10 | 4-Nov | Mon | Collaboraton | [Assignment 3 due](https://classroom.github.com/a/6uKEN29a) |
 | 11 | 6-Nov | Wed | Collaboraton |  |
-| 12 | 11-Nov | Mon | Research ethics |  |
+| 12 | 11-Nov | Mon | Research ethics | [Assignment 4 due](https://classroom.github.com/a/KIIWOp5V) |
 | 13 | 13-Nov | Wed | Research ethics |  |
 | 14 | 18-Nov | Mon | Developing a research proposal |  |
 | 15 | 20-Nov | Wed | Developing a research proposal |  |
