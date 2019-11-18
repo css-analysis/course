@@ -95,7 +95,7 @@ Unexcused late problem sets will be penalized 1 points for every hour they are l
 | 16 | 25-Nov | Mon | Exploratory data analysis |  |
 | 17 | 27-Nov | Wed | Exploratory data analysis |  |
 | 18 | 2-Dec | Mon | Exploratory data analysis |  |
-| 19 | 4-Dec | Wed | Exploratory data analysis |  |
+| 19 | 4-Dec | Wed | Exploratory data analysis | [Assignment 6 due](https://classroom.github.com/a/QtuMgmVk) |
 
 ## Assigned readings
 
