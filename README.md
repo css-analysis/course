@@ -160,7 +160,9 @@ Unexcused late problem sets will be penalized 1 points for every hour they are l
         * Skim site
         * Specifically read ["Does My Research Need IRB Review?"](https://sbsirb.uchicago.edu/page/does-my-research-need-irb-review-0)
 1. Developing a research proposal
+    * [Booth, Wayne et al., *The Craft of Research*, 4th ed. University of Chicago Press, 2016.](https://ebookcentral.proquest.com/lib/uchicago/detail.action?docID=4785166), Chapters 3 and 4
 1. Developing a research proposal
+    * [Booth, Wayne et al., *The Craft of Research*, 4th ed. University of Chicago Press, 2016.](https://ebookcentral.proquest.com/lib/uchicago/detail.action?docID=4785166), Chapters 5 and 6
 1. Exploratory data analysis
 1. Exploratory data analysis
 1. Exploratory data analysis
