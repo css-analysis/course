@@ -92,8 +92,8 @@ Unexcused late problem sets will be penalized 1 points for every hour they are l
 | 13 | 13-Nov | Wed | Research ethics |  |
 | 14 | 18-Nov | Mon | Developing a research proposal | [Assignment 5 due](https://classroom.github.com/a/5ktVYWZv) |
 | 15 | 20-Nov | Wed | Developing a research proposal |  |
-| 16 | 25-Nov | Mon | Exploratory data analysis |  |
-| 17 | 27-Nov | Wed | Exploratory data analysis |  |
+| 16 | 25-Nov | Mon | Obtaining and wrangling data |  |
+| 17 | 27-Nov | Wed | Obtaining and wrangling data |  |
 | 18 | 2-Dec | Mon | Exploratory data analysis |  |
 | 19 | 4-Dec | Wed | Exploratory data analysis | [Assignment 6 due](https://classroom.github.com/a/QtuMgmVk) |
 
@@ -163,8 +163,11 @@ Unexcused late problem sets will be penalized 1 points for every hour they are l
     * [Booth, Wayne et al., *The Craft of Research*, 4th ed. University of Chicago Press, 2016.](https://ebookcentral.proquest.com/lib/uchicago/detail.action?docID=4785166), Chapters 3 and 4
 1. Developing a research proposal
     * [Booth, Wayne et al., *The Craft of Research*, 4th ed. University of Chicago Press, 2016.](https://ebookcentral.proquest.com/lib/uchicago/detail.action?docID=4785166), Chapters 5 and 6
-1. Exploratory data analysis
-1. Exploratory data analysis
+1. Obtaining and wrangling data
+    * Lohr. 2014. [For Big-Data Scientists, "Janitor Work" Is Key Hurdle to Insights.](http://www.nytimes.com/2014/08/18/technology/for-big-data-scientists-hurdle-to-insights-is-janitor-work.html?_r=0) *New York Times*.
+        * [Data Carpentry](http://www.mimno.org/articles/carpentry/) - a response to the NYTimes article
+    * [Wickham, Hadley. 2014. "Tidy data." *Journal of Statistical Software*.](https://www.jstatsoft.org/article/view/v059i10/v59i10.pdf) - just read the first three sections. The code in the article is extremely out of date and not worth reading, but the principles of tidy data are still very much important
+1. Obtaining and wrangling data
 1. Exploratory data analysis
 1. Exploratory data analysis
 
